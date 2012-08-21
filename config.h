@@ -20,7 +20,7 @@
 #define HAVE_INTTYPES_H 1
 
 /* Define to 1 if you have the <memory.h> header file. */
-//#define HAVE_MEMORY_H 1
+#define HAVE_MEMORY_H 1
 
 /* Define to 1 if you have the <poll.h> header file. */
 #define HAVE_POLL_H 1
@@ -29,7 +29,7 @@
 #define HAVE_STDINT_H 1
 
 /* Define to 1 if you have the <stdlib.h> header file. */
-//#define HAVE_STDLIB_H 1
+#define HAVE_STDLIB_H 1
 
 /* Define to 1 if you have the <strings.h> header file. */
 #define HAVE_STRINGS_H 1
@@ -38,16 +38,16 @@
 #define HAVE_STRING_H 1
 
 /* Define to 1 if the system has the type `struct timespec'. */
-//#define HAVE_STRUCT_TIMESPEC 1
+#define HAVE_STRUCT_TIMESPEC 1
 
 /* Define to 1 if you have the <sys/stat.h> header file. */
-//#define HAVE_SYS_STAT_H 1
+#define HAVE_SYS_STAT_H 1
 
 /* Define to 1 if you have the <sys/time.h> header file. */
-//#define HAVE_SYS_TIME_H 1
+#define HAVE_SYS_TIME_H 1
 
 /* Define to 1 if you have the <sys/types.h> header file. */
-//#define HAVE_SYS_TYPES_H 1
+#define HAVE_SYS_TYPES_H 1
 
 /* Define to 1 if you have the <unistd.h> header file. */
 #define HAVE_UNISTD_H 1
